@@ -1,0 +1,15 @@
+langchain_community
+dotenv
+ipykernel
+langgraph
+langchain_huggingface
+db-sqlite3
+langchain
+streamlit
+os
+sentence_transformers
+pypdf
+fastmcp
+faiss-cpu
+langgraph-checkpoint-sqlite
+pydantic
